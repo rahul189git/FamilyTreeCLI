@@ -4,7 +4,7 @@ Contains Window Based CLI Utility To Add and View Family Members Of Multiple Gen
 This utility helps user do various operations to check their relation and add family member in the family.
 
 To Start Application, click on "family_graph.bat"
-It helps use maintain their family tree of multiple generation through 3 opertions as below.
+It helps user maintain their family tree of multiple generation through 3 opertions as below.
 
 1).Show relative: Person=Alex Relation=Brothers
 Where relations are :
